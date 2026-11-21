@@ -1,5 +1,7 @@
 # Mintlify Starter Kit
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/docs&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/docs&ref=main&action=edit)
+
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
 - Guide pages
